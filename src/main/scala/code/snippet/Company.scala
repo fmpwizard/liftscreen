@@ -9,9 +9,9 @@ import Helpers._
 
 class Company {
   if ( 20%2 > 1 ) {
-    "*" #> <lift="Company.addCompany"></lift>
+    "*" #> <lift="Company.AskAboutIceCream1"></lift>
   } else {
-    "*" #> <lift="Company.showCompany"></lift>
+    "*" #> <lift="Company.AskAboutIceCream2"></lift>
   }
 
 
